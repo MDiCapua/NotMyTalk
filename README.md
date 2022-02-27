@@ -16,12 +16,19 @@ In order to run it, open "notMyTalk.pl" and give in input the string "main_loop(
 Bibliography
 
 Blackburn, P., & Bos, J. (2005). Representation and inference for natural language. 
+
 C. Matthews (1998). An Introduction to Natural Language Processing Through Prolog. 
+
 Miller, G. A. (1995). WordNet: a lexical database for English.
+
 Pereira, F. C., & Shieber, S. M. (1987). Prolog and natural-language analysis. 
+
 ProNTo – Prolog Natural Language Tools. http://ai1.ai.uga.edu/mc/pronto/
+
 Ribeiro, C. et al. (2004). INQUER: A WordNet-based Question-Answering Application.
+
 Witzig, Sarah (2003) - Accessing WordNet from Prolog. http://ai1.ai.uga.edu/mc/pronto/Witzig.pdf
+
 
 
 MyTalk program by Lorenzo Rosa: https://github.com/ellerre/MyTalk 
