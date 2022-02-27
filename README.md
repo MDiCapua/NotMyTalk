@@ -17,7 +17,7 @@ Bibliography
 
 Blackburn, P., & Bos, J. (2005). Representation and inference for natural language. 
 
-C. Matthews (1998). An Introduction to Natural Language Processing Through Prolog. 
+Matthews, C. (1998). An Introduction to Natural Language Processing Through Prolog. 
 
 Miller, G. A. (1995). WordNet: a lexical database for English.
 
